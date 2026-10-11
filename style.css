@@ -1,0 +1,55 @@
+body{
+    background-color: #F5F3FF;
+}
+fieldset{
+    width: 50%;
+    margin: 40px auto;
+    background-color: #FFFFFF;
+    border: 1px solid #DDD6FE;
+    border-radius: 12px;
+    padding: 20px;
+}
+legend{
+    color: #4C1D95;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0 10px;
+}
+label{
+    color: #1F2937;
+    font-weight: 600;
+}
+input{
+    padding: 9px;
+    margin: 8px;
+    border: 1px solid #C4B5FD;
+    border-radius: 6px;
+    outline: none;
+}
+input:focus{
+    border: 2px solid #7C3AED;
+}
+button{
+    background-color: #7C3AED;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+button:hover {
+    background-color: #6D28D9;
+}
+table{
+    border-radius: 6px;
+    /* border: 1px solid; */
+    margin: 25px auto;
+    overflow: hidden;
+}
+th{
+    background-color: #4C1D95;
+    color: white;
+    padding: 10px 25px;
+    border: 1px solid white;
+}
